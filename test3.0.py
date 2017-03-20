@@ -1,17 +1,3 @@
-# delete those comment when you fnish with making this game
-# copy def Question1()~gameover() to make another question
-# when you made a new question, you need to make a few changes
-#
-# if answerOne(this could be anything) = 't'
-# ^^ this answerOne should be the question number that youre trying to make
-#   Question2()
-# ^^ this Question2 should be the NEXT queston number, if you decided to fnish
-#    this question, type endOfGame()
-#
-# look through this code, and if you have any questions, snapchat me.
-# I would be happy to help you out.
-
-
 def Question1():
     '''level one question'''
     print ("Here is level one question")
